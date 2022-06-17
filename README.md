@@ -1,4 +1,4 @@
-# Implicit Regularization of Linear Equivariant Networks.
+# Implicit Bias of Linear Equivariant Networks
 
 This is code to accompany the research paper https://arxiv.org/abs/2110.06084
 
