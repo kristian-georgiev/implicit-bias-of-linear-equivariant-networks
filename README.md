@@ -53,6 +53,6 @@ Here are installation guides for [GAP](https://www.gap-system.org/Download/) and
 
 > Pretty pictures
 
-| ![hellllo](data/quilt.png)
+| ![quilt](figures/quilt.png)
 | :--: |
 <b> Cayley table for the nonabelian group $(C_5 \times C_5) \rtimes Q_8$</b>
